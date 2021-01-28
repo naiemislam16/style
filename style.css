@@ -1,0 +1,67 @@
+.header{
+    font-size: 40px;
+    text-align: center;
+    background: skyblue;
+    height: 40px;
+    width: 100%;
+    padding: 20px;
+}
+.e{
+    font-size: 45px;
+    color: rgba(247, 12, 12, 0.822);
+}
+.box{
+    width: 100%;
+    padding-top: 20px;
+    display: flex;
+  
+    margin-left: 20px;
+    
+    
+}
+.a{
+    width: 30%;
+    
+    height: 400px;
+    background: rgb(6, 177, 162);
+    text-align: justify;
+    padding: 10px;
+
+  
+}
+.b{
+    width: 30%;
+    padding-left: 20px;
+    height: 400px;
+    background: rgba(6, 177, 163, 0.219);
+    margin-left: 10px;
+    padding: 10px;
+    text-align: justify;
+}
+.c{
+    width: 30%;
+    padding-left: 10px;
+    height: 400px;
+    background: rgba(6, 177, 163, 0.726);
+    margin-left: 10px;
+    padding: 10px;
+    text-align: justify;
+}
+.a marquee{
+    background: red;
+    color: white;
+    width: 100%;
+   
+}
+.b marquee{
+    background: rgb(206, 228, 8);
+    color: rgb(224, 12, 12);
+    width: 100%;
+   
+}
+.c marquee{
+    background: rgba(255, 0, 0, 0.562);
+    color: white;
+    width: 100%;
+   
+}
